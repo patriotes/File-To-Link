@@ -1,6 +1,6 @@
 {
   "name": "FILE-TO-LINK",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web.",
+  "description": "Un robot Pyrogram Telegram pour diffuser des fichiers Telegram sur le Web.",
   "keywords": [
       "telegram",
       "stream",
@@ -13,7 +13,7 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/Itz-JEOL/File-To-Link/",
+  "repository": "https://github.com/patriotes/File-To-Link/",
   "success_url": "/",
   "logo": "https://graph.org/file/3421895411af26c3da183.jpg",
   "website": "http://jeol.tech",
