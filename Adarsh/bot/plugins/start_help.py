@@ -29,8 +29,8 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ 🅜🅘🅢🅔 🅐 🅙🅞🅤🅡🅢", url="https://t.me/ArchitectePatriotes"), InlineKeyboardButton("⚡ 🅐🅘🅓🅔", url="https://t.me/Architecte_Q")],
-                    [InlineKeyboardButton("💥🅐🅓🅜🅘🅝", url="https://t.me/Architecte_Q")],
-                    [InlineKeyboardButton("💌 🅡🅔🅙🅞🅘🅝🅓🅡🅔 💌", url="https://t.me/ArchitectePatriotes")]
+                    [InlineKeyboardButton("💥🅓🅔🅥🅔🅛🅞🅟🅟🅔🅤🅡", url="https://t.me/jeol_tg")],
+                    [InlineKeyboardButton("💌 🅐🅓🅜🅘🅝 💌", url="https://t.me/ArchitectePatriotes")]
                 ]
             ),
             
