@@ -25,12 +25,12 @@ async def start(b, m):
     usr_cmd = m.text.split("_")[-1]
     if usr_cmd == "/start":
         await m.reply_text(
-            text="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
+            text="**⚡🅱🅾🅽🅹🅾🆄🆁⚡\n\n⚡𝑱𝒆 𝑺𝒖𝒊𝒔 𝑼𝒏 𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑷𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒄𝒉𝒂𝒓𝒈𝒆𝒓 𝑳𝒆𝒔 𝑴𝒖𝒔𝒊𝒒𝒖𝒆𝒔 𝑺𝒖𝒓 𝑫𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕𝒆𝒔 𝑷𝒍𝒂𝒕𝒆𝒇𝒐𝒓𝒎𝒆𝒔.⚡**\n\n**𝒖𝒔𝒆 /help 𝒑𝒐𝒖𝒓 𝒑𝒍𝒖𝒔 𝒅𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔\n\n𝒆𝒏𝒗𝒐𝒚𝒆𝒛 𝒎𝒐𝒊 𝒏'𝒊𝒎𝒑𝒐𝒓𝒕𝒆 𝒒𝒖𝒆𝒍𝒍𝒆 𝑽𝒊𝒅𝒆𝒐 / 𝑭𝒊𝒄𝒉𝒊𝒆𝒓 𝒑𝒐𝒖𝒓 𝒗𝒐𝒊𝒓 𝒎𝒂 𝒑𝒖𝒊𝒔𝒔𝒂𝒏𝒄𝒆...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES", url="https://t.me/beta_botz"), InlineKeyboardButton("⚡ SUPPORT", url="https://t.me/beta_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/jeol_tg")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@itzjeol")]
+                    [InlineKeyboardButton("⚡ 🅜🅘🅢🅔 🅐 🅙🅞🅤🅡🅢", url="https://t.me/ArchitectePatriotes"), InlineKeyboardButton("⚡ 🅐🅘🅓🅔", url="https://t.me/Architecte_Q")],
+                    [InlineKeyboardButton("💥🅐🅓🅜🅘🅝", url="https://t.me/Architecte_Q")],
+                    [InlineKeyboardButton("💌 🅡🅔🅙🅞🅘🅝🅓🅡🅔 💌", url="https://t.me/ArchitectePatriotes")]
                 ]
             ),
             
@@ -60,11 +60,11 @@ async def start(b, m):
                                      Var.PORT,
                                      get_msg.id)
 
-        msg_text = "**ᴛᴏᴜʀ ʟɪɴᴋ ɪs ɢᴇɴᴇʀᴀᴛᴇᴅ...⚡\n\n📧 ғɪʟᴇ ɴᴀᴍᴇ :-\n{}\n {}\n\n💌 ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ :- {}\n\n♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴇxᴘɪʀᴇᴅ ♻️\n\n<b>❖ YouTube.com/@itzjeol</b>**"
+        msg_text = "**𝑻𝒐𝒏 𝒍𝒊𝒆𝒏 𝒆𝒔𝒕 𝒑𝒓𝒆𝒕...⚡\n\n📧 𝑵𝒐𝒎 𝑫𝒖 𝑭𝒊𝒄𝒉𝒊𝒆𝒓 :-\n{}\n {}\n\n💌 𝑻𝒆𝒍𝒆𝒄𝒉𝒂𝒓𝒈𝒆𝒎𝒆𝒏𝒕 :- {}\n\n♻️ 𝑪𝒆 𝑳𝒊𝒆𝒏 𝑬𝒔𝒕 𝑷𝒆𝒓𝒎𝒂𝒏𝒆𝒏𝒕 𝑬𝒕 𝑵'𝒆𝒙𝒑𝒊𝒓𝒆 𝑷𝒂𝒔 ♻️\n\n<b>❖ t.me/ArchitectePatriotes</b>**"
         await m.reply_text(            
             text=msg_text.format(file_name, file_size, stream_link),
             
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚡ ᴅᴏᴡɴʟᴏᴀᴅ ɴᴏᴡ ⚡", url=stream_link)]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚡ 𝗧𝗲𝗹𝗲𝗰𝗵𝗮𝗿𝗴𝗲𝗿 ⚡", url=stream_link)]])
         )
 
 
@@ -84,9 +84,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/beta_botz"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/jeol_tg"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/Adarsh-Goel")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@itzjeol")]
+                    [InlineKeyboardButton("⚡ 🅜🅘🅢🅔 🅐 🅙🅞🅤🅡🅢 ⚡", url="https://t.me/ArchitectePatriotes"), InlineKeyboardButton("💥🅒🅐🅝🅐🅛💥", url="https://t.me/ArchitecemtePatriotes")],
+                    [InlineKeyboardButton("🌬️🅐🅓🅜🅘🅝", url="https://t.me/Architecte_Q"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/Adarsh-Goel")],
+                    [InlineKeyboardButton("💌 🅡🅔🅙🅞🅘🅝🅓🅡🅔 💌", url="https://t.me/ArchitectePatriotes")]
                 ]
             ),
             
@@ -102,7 +102,7 @@ async def about_handler(bot, message):
         )
     await message.reply_photo(
             photo="https://graph.org/file/8e67ae4a3803f69a28218.jpg",
-            caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
+            caption="""<b>𝒒𝒖𝒆𝒍𝒒𝒖𝒆𝒔 𝒅𝒆𝒕𝒂𝒊𝒍𝒔 𝒄𝒂𝒄𝒉𝒆𝒔😜</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
@@ -119,9 +119,9 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/beta_botz"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/beta_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/jeol_tg"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/Adarsh-Goel")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@itzjeol")]
+                    [InlineKeyboardButton("⚡ 🅜🅘🅢🅔 🅐 🅙🅞🅤🅡🅢 ⚡", url="https://t.me/ArchitectePatriotes"), InlineKeyboardButton("💥🅒🅐🅝🅐🅛💥", url="https://t.me/ArchitecemtePatriotes")],
+                    [InlineKeyboardButton("🌬️🅐🅓🅜🅘🅝", url="https://t.me/Architecte_Q"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/Adarsh-Goel")],
+                    [InlineKeyboardButton("💌 🅡🅔🅙🅞🅘🅝🅓🅡🅔 💌", url="https://t.me/ArchitectePatriotes")]
                 ]
             ),
             
